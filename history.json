@@ -1,0 +1,1002 @@
+[
+  {
+    "timestamp": "2026-11-22T19:52:56",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:52:57",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:52:57",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:52:57",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:52:58",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:52:58",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:52:59",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:52:59",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:00",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:01",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:01",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:02",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:03",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:03",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:04",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:04",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:05",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:06",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:06",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:07",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:07",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:08",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:08",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:09",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:09",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:10",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:10",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:10",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:11",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:11",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:12",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:12",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:12",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:13",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:13",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:14",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:14",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:14",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:15",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:15",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:16",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:16",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:17",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:17",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:17",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:18",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:18",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:19",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:19",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T19:53:20",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 78.93%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.03 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.02 MB)"
+      }
+    ]
+  }
+]

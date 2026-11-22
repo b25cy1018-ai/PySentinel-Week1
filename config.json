@@ -1,0 +1,7 @@
+
+{
+    "min_free_percent": 20,
+    "max_folder_mb": 500,
+    "max_file_mb": 100,
+    "folders_to_watch": ["."]
+}
