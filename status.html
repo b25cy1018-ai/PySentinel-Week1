@@ -1,0 +1,148 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="60">
+        <title>PySentinel Status</title>
+
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 30px;
+                background: #f4f6f8;
+            }
+
+            h1 {
+                color: #243447;
+            }
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                background: white;
+            }
+
+            th, td {
+                padding: 12px;
+                border: 1px solid #ddd;
+                text-align: left;
+            }
+
+            th {
+                background: #243447;
+                color: white;
+            }
+
+            .ok {
+                color: green;
+                font-weight: bold;
+            }
+
+            .warn {
+                color: orange;
+                font-weight: bold;
+            }
+
+            .fail {
+                color: red;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>PySentinel - System & Website Status</h1>
+
+        <p>Last checked: 2026-11-24 18:23:11</p>
+
+        <table>
+            <tr>
+                <th>Check</th>
+                <th>Status</th>
+                <th>Details</th>
+                <th>Last Checked</th>
+            </tr>
+
+            
+        <tr>
+            <td>Disk Space</td>
+            <td class="ok">OK</td>
+            <td>Free space: 79.89%</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Folder Size</td>
+            <td class="ok">OK</td>
+            <td>Folder size: 0.44 MB</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Large Files</td>
+            <td class="ok">OK</td>
+            <td>Largest file: .\screenshots\status-dashboard.png (0.26 MB)</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Website Uptime - https://google.com</td>
+            <td class="ok">OK</td>
+            <td>Response time: 1586.82 ms</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Website Uptime - https://github.com</td>
+            <td class="ok">OK</td>
+            <td>Response time: 1257.23 ms</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Website Uptime - https://youtube.com</td>
+            <td class="warn">WARN</td>
+            <td>Slow response: 7574.41 ms</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Website Uptime - https://microsoft.com</td>
+            <td class="ok">OK</td>
+            <td>Response time: 1601.42 ms</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Website Uptime - https://python.org</td>
+            <td class="ok">OK</td>
+            <td>Response time: 1682.82 ms</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Website Uptime - https://example.com</td>
+            <td class="ok">OK</td>
+            <td>Response time: 325.68 ms</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Website Uptime - https://wikipedia.org</td>
+            <td class="fail">FAIL</td>
+            <td>HTTP error: 403</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        <tr>
+            <td>Website Uptime - https://this-website-does-not-exist-12345.com</td>
+            <td class="fail">FAIL</td>
+            <td>Connection failed: website unreachable</td>
+            <td>2026-11-24 18:23:11</td>
+        </tr>
+        
+        </table>
+    </body>
+    </html>
+    

@@ -1,0 +1,8 @@
+[2026-11-24 17:59:18] ALERT: Test Website failed 2 times in a row. Details: Connection failed
+[2026-11-24 17:59:18] RECOVERED: Test Website is working again.
+[2026-11-24 18:05:39] ALERT: https://wikipedia.org failed 2 times in a row. Details: HTTP error: 403
+[2026-11-24 18:05:39] ALERT: https://this-website-does-not-exist-12345.com failed 2 times in a row. Details: Connection failed: website unreachable
+[2026-11-24 18:19:24] ALERT: https://wikipedia.org failed 2 times in a row. Details: HTTP error: 403
+[2026-11-24 18:19:24] ALERT: https://this-website-does-not-exist-12345.com failed 2 times in a row. Details: Connection failed: website unreachable
+[2026-11-24 18:21:09] ALERT: https://wikipedia.org failed 2 times in a row. Details: HTTP error: 403
+[2026-11-24 18:21:09] ALERT: https://this-website-does-not-exist-12345.com failed 2 times in a row. Details: Connection failed: website unreachable

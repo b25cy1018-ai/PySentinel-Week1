@@ -1,405 +1,5 @@
 [
   {
-    "timestamp": "2026-11-22T19:52:58",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:52:58",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:52:59",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:52:59",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:00",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:01",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:01",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:02",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:03",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:03",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:04",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:04",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:05",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:06",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:06",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:07",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:07",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:08",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:08",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-22T19:53:09",
-    "results": [
-      {
-        "name": "Disk Space",
-        "status": "OK",
-        "detail": "Free space: 78.93%"
-      },
-      {
-        "name": "Folder Size",
-        "status": "OK",
-        "detail": "Folder size: 0.03 MB"
-      },
-      {
-        "name": "Large Files",
-        "status": "OK",
-        "detail": "Largest file: .\\history.json (0.02 MB)"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-22T19:53:09",
     "results": [
       {
@@ -1188,6 +788,1686 @@
         "url": "https://this-website-does-not-exist-12345.com",
         "status_code": null,
         "response_ms": 21.76
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T17:21:54",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.09 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.03 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2969.36 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 2969.36
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 7995.46 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 7995.46
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 5998.91 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 5998.91
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2163.82 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 2163.82
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2381.88 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 2381.88
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1304.73 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 1304.73
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 367.96
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 151.92
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T17:24:17",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.10 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.03 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1718.08 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1718.08
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1330.54 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 1330.54
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2184.36 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 2184.36
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2339.93 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 2339.93
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 5646.07 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 5646.07
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 926.09 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 926.09
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 733.39
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 55.41
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T17:25:08",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.10 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.03 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1353.23 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1353.23
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2102.97 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 2102.97
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1856.12 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 1856.12
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1071.15 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 1071.15
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 941.85 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 941.85
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2703.97 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 2703.97
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 5214.22
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 19.52
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T17:27:39",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.10 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.03 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://google.com",
+        "status_code": null,
+        "response_ms": 8.71
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://github.com",
+        "status_code": null,
+        "response_ms": 2.29
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://youtube.com",
+        "status_code": null,
+        "response_ms": 1.58
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://microsoft.com",
+        "status_code": null,
+        "response_ms": 1.58
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://python.org",
+        "status_code": null,
+        "response_ms": 1.92
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://example.com",
+        "status_code": null,
+        "response_ms": 1.45
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://wikipedia.org",
+        "status_code": null,
+        "response_ms": 1.56
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 1.88
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T17:32:06",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.10 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.03 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1766.31 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1766.31
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 5735.73 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 5735.73
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2679.13 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 2679.13
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 3269.68 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 3269.68
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1932.32 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 1932.32
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 527.16 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 527.16
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 370.52
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 19.76
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:03:32",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.13 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.04 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1060.77 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1060.77
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1038.23 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 1038.23
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 3739.82 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 3739.82
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1386.19 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 1386.19
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 3178.25 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 3178.25
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 309.94 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 309.94
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 347.7
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 236.81
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:05:22",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.14 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.04 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 980.69 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 980.69
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 4819.99 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 4819.99
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1670.40 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 1670.4
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 909.16 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 909.16
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 572.19 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 572.19
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 5444.65 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 5444.65
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 914.08
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 20.58
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:05:39",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.14 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.04 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1219.23 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1219.23
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1775.37 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 1775.37
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1481.00 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 1481.0
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 626.82 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 626.82
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 625.16 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 625.16
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 194.75 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 194.75
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 870.44
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 12.6
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:05:55",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.14 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.04 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 921.22 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 921.22
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 904.86 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 904.86
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1858.54 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 1858.54
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 997.41 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 997.41
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 608.89 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 608.89
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 188.77 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 188.77
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 823.05
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 13.02
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:06:14",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.15 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\history.json (0.04 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1061.08 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1061.08
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 646.86 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 646.86
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1290.67 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 1290.67
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2176.09 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 2176.09
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2540.73 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 2540.73
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 431.49 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 431.49
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 360.83
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 14.18
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:19:03",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.42 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 997.36 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 997.36
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 5035.98 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 5035.98
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 5255.98 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 5255.98
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 6639.22 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 6639.22
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2017.32 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 2017.32
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1339.51 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 1339.51
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 378.34
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 251.5
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:19:24",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.43 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1308.63 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1308.63
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 4151.83 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 4151.83
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1135.08 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 1135.08
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1452.88 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 1452.88
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1643.61 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 1643.61
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 522.91 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 522.91
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 594.24
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 21.15
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:19:47",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.90%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.43 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1619.42 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1619.42
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 3109.94 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 3109.94
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 4547.74 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 4547.74
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2264.51 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 2264.51
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 616.75 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 616.75
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 210.91 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 210.91
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 321.27
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 14.26
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:20:44",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.89%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.43 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2798.11 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 2798.11
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 4847.94 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 4847.94
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2464.55 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 2464.55
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1123.12 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 1123.12
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1088.05 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 1088.05
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 201.15 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 201.15
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 1482.53
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 296.1
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:21:09",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.89%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.43 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2055.53 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 2055.53
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2219.97 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 2219.97
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2309.26 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 2309.26
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 3205.59 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 3205.59
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1164.07 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 1164.07
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 3372.14 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 3372.14
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 582.71
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 53.2
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:21:31",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.89%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.43 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1467.99 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1467.99
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 933.24 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 933.24
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 4804.60 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 4804.6
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1089.42 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 1089.42
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1944.42 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 1944.42
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1134.91 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 1134.91
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 324.14
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 24.94
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:21:55",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.89%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.44 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1977.99 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1977.99
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 768.48 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 768.48
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 6141.25 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 6141.25
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2486.94 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 2486.94
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 876.74 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 876.74
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 177.79 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 177.79
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 1561.57
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 92.32
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:22:21",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.89%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.44 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2147.71 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 2147.71
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 4902.67 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 4902.67
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2582.89 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 2582.89
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1252.92 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 1252.92
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 666.69 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 666.69
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1890.12 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 1890.12
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 1808.7
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 48.35
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:22:44",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.89%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.44 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 2375.51 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 2375.51
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 876.94 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 876.94
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 3362.64 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 3362.64
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1060.72 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 1060.72
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 3603.21 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 3603.21
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 577.53 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 577.53
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 767.33
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 148.38
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:23:11",
+    "results": [
+      {
+        "name": "Disk Space",
+        "status": "OK",
+        "detail": "Free space: 79.89%"
+      },
+      {
+        "name": "Folder Size",
+        "status": "OK",
+        "detail": "Folder size: 0.44 MB"
+      },
+      {
+        "name": "Large Files",
+        "status": "OK",
+        "detail": "Largest file: .\\screenshots\\status-dashboard.png (0.26 MB)"
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1586.82 ms",
+        "url": "https://google.com",
+        "status_code": 200,
+        "response_ms": 1586.82
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1257.23 ms",
+        "url": "https://github.com",
+        "status_code": 200,
+        "response_ms": 1257.23
+      },
+      {
+        "name": "Website Uptime",
+        "status": "WARN",
+        "detail": "Slow response: 7574.41 ms",
+        "url": "https://youtube.com",
+        "status_code": 200,
+        "response_ms": 7574.41
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1601.42 ms",
+        "url": "https://microsoft.com",
+        "status_code": 200,
+        "response_ms": 1601.42
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 1682.82 ms",
+        "url": "https://python.org",
+        "status_code": 200,
+        "response_ms": 1682.82
+      },
+      {
+        "name": "Website Uptime",
+        "status": "OK",
+        "detail": "Response time: 325.68 ms",
+        "url": "https://example.com",
+        "status_code": 200,
+        "response_ms": 325.68
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "HTTP error: 403",
+        "url": "https://wikipedia.org",
+        "status_code": 403,
+        "response_ms": 3096.31
+      },
+      {
+        "name": "Website Uptime",
+        "status": "FAIL",
+        "detail": "Connection failed: website unreachable",
+        "url": "https://this-website-does-not-exist-12345.com",
+        "status_code": null,
+        "response_ms": 26.91
       }
     ]
   }

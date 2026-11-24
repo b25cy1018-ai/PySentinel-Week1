@@ -3,8 +3,11 @@ import json
 import os
 import sys
 import csv
+import time
+import webbrowser
 from datetime import datetime
 
+from alerts import AlertManager
 from config import load_config
 from checks import (
     DiskSpaceCheck,
@@ -56,7 +59,7 @@ def save_history(results):
 
     if os.path.exists(history_file):
         try:
-            with open(history_file, "r") as file:
+            with open(history_file, "r", encoding="utf-8") as file:
                 history = json.load(file)
         except (json.JSONDecodeError, OSError):
             history = []
@@ -70,8 +73,204 @@ def save_history(results):
 
     history = history[-50:]
 
-    with open(history_file, "w") as file:
+    with open(history_file, "w", encoding="utf-8") as file:
         json.dump(history, file, indent=2)
+
+
+def build_checks():
+    config = load_config()
+
+    checks = [
+        DiskSpaceCheck(config["min_free_percent"])
+    ]
+
+    for folder in config["folders_to_watch"]:
+        checks.append(
+            FolderSizeCheck(folder, config["max_folder_mb"])
+        )
+
+        checks.append(
+            LargeFileCheck(folder, config["max_file_mb"])
+        )
+
+    for url in config["sites"]:
+        checks.append(
+            WebsiteCheck(url)
+        )
+
+    return checks
+
+
+def write_status_html(results):
+    last_checked = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    rows = ""
+
+    for result in results:
+        status = result["status"].lower()
+
+        name = result["name"]
+        detail = result["detail"]
+
+        if "url" in result:
+            name = f'{name} - {result["url"]}'
+
+        rows += f"""
+        <tr>
+            <td>{name}</td>
+            <td class="{status}">{result["status"]}</td>
+            <td>{detail}</td>
+            <td>{last_checked}</td>
+        </tr>
+        """
+
+    html = f"""
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="60">
+        <title>PySentinel Status</title>
+
+        <style>
+            body {{
+                font-family: Arial, sans-serif;
+                margin: 30px;
+                background: #f4f6f8;
+            }}
+
+            h1 {{
+                color: #243447;
+            }}
+
+            table {{
+                width: 100%;
+                border-collapse: collapse;
+                background: white;
+            }}
+
+            th, td {{
+                padding: 12px;
+                border: 1px solid #ddd;
+                text-align: left;
+            }}
+
+            th {{
+                background: #243447;
+                color: white;
+            }}
+
+            .ok {{
+                color: green;
+                font-weight: bold;
+            }}
+
+            .warn {{
+                color: orange;
+                font-weight: bold;
+            }}
+
+            .fail {{
+                color: red;
+                font-weight: bold;
+            }}
+        </style>
+    </head>
+
+    <body>
+        <h1>PySentinel - System & Website Status</h1>
+
+        <p>Last checked: {last_checked}</p>
+
+        <table>
+            <tr>
+                <th>Check</th>
+                <th>Status</th>
+                <th>Details</th>
+                <th>Last Checked</th>
+            </tr>
+
+            {rows}
+        </table>
+    </body>
+    </html>
+    """
+
+    with open("status.html", "w", encoding="utf-8") as file:
+        file.write(html)
+
+
+def run_monitoring_round(alert_manager):
+    checks = build_checks()
+    results = []
+
+    print("\nPySentinel - System & Website Health Report")
+    print("--------------------------------------------")
+    print("Time:", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+
+    for check in checks:
+        result = check.run()
+        results.append(result)
+
+        if "url" in result:
+            save_uptime(result)
+
+        status = result["status"]
+
+        if status == "OK":
+            color = GREEN
+        elif status == "WARN":
+            color = YELLOW
+        else:
+            color = RED
+
+        print(
+            f'{color}[{status}]{RESET} '
+            f'{result["name"]}: {result["detail"]}'
+        )
+
+        # Use the URL as the identity for individual website alerts.
+        check_name = result.get("url", result["name"])
+
+        alert_manager.check_status(
+            check_name,
+            status,
+            result["detail"]
+        )
+
+    save_history(results)
+    write_status_html(results)
+
+    print("\nResults saved to history.json")
+    print("Website results saved to uptime.csv")
+    print("Status page updated: status.html")
+
+
+def watch_mode(interval):
+    alert_manager = AlertManager(threshold=2)
+
+    status_path = os.path.abspath("status.html")
+    status_url = "file:///" + status_path.replace("\\", "/")
+
+    print("\nStarting PySentinel Watch Mode")
+    print(f"Monitoring interval: {interval} seconds")
+    print("Press Ctrl+C to stop monitoring.")
+
+    try:
+        while True:
+            run_monitoring_round(alert_manager)
+
+            # Open the status page only once.
+            if not getattr(watch_mode, "browser_opened", False):
+                webbrowser.open(status_url)
+                watch_mode.browser_opened = True
+
+            print(f"\nNext monitoring round in {interval} seconds.")
+            time.sleep(interval)
+
+    except KeyboardInterrupt:
+        print("\n\nPySentinel monitoring stopped.")
+        print("Goodbye!")
 
 
 def show_summary():
@@ -80,7 +279,7 @@ def show_summary():
         return
 
     try:
-        with open("history.json", "r") as file:
+        with open("history.json", "r", encoding="utf-8") as file:
             history = json.load(file)
     except (json.JSONDecodeError, OSError):
         print("History file is invalid or cannot be read.")
@@ -128,7 +327,6 @@ def show_uptime_report():
 
                 website_data[url]["total"] += 1
 
-                # Both OK and WARN mean the website responded successfully.
                 if row["status"] in ("OK", "WARN"):
                     website_data[url]["successful"] += 1
 
@@ -178,59 +376,27 @@ def main():
         show_uptime_report()
         return
 
-    config = load_config()
+    if len(sys.argv) >= 2 and sys.argv[1] == "watch":
+        interval = 60
 
-    checks = [
-        DiskSpaceCheck(config["min_free_percent"])
-    ]
+        if "--every" in sys.argv:
+            try:
+                index = sys.argv.index("--every")
+                interval = int(sys.argv[index + 1])
 
-    # System monitoring checks
-    for folder in config["folders_to_watch"]:
-        checks.append(
-            FolderSizeCheck(folder, config["max_folder_mb"])
-        )
+                if interval <= 0:
+                    raise ValueError
 
-        checks.append(
-            LargeFileCheck(folder, config["max_file_mb"])
-        )
+            except (ValueError, IndexError):
+                print("Invalid interval. Use a positive number of seconds.")
+                return
 
-    # Website monitoring checks
-    for url in config["sites"]:
-        checks.append(
-            WebsiteCheck(url)
-        )
+        watch_mode(interval)
+        return
 
-    results = []
-
-    print("\nPySentinel - System & Website Health Report")
-    print("--------------------------------------------")
-
-    for check in checks:
-        result = check.run()
-        results.append(result)
-
-        # Save website results to CSV
-        if "url" in result:
-            save_uptime(result)
-
-        status = result["status"]
-
-        if status == "OK":
-            color = GREEN
-        elif status == "WARN":
-            color = YELLOW
-        else:
-            color = RED
-
-        print(
-            f'{color}[{status}]{RESET} '
-            f'{result["name"]}: {result["detail"]}'
-        )
-
-    save_history(results)
-
-    print("\nResults saved to history.json")
-    print("Website results saved to uptime.csv")
+    # Normal one-time monitoring mode.
+    alert_manager = AlertManager(threshold=2)
+    run_monitoring_round(alert_manager)
 
 
 if __name__ == "__main__":
