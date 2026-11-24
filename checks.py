@@ -1,6 +1,7 @@
-
 import os
 import shutil
+import time
+import requests
 
 
 class Check:
@@ -103,3 +104,63 @@ class LargeFileCheck(Check):
         )
 
         return self.result(status, detail)
+
+class WebsiteCheck(Check):
+    def __init__(self, url, timeout=5, slow_threshold=2.0):
+        super().__init__("Website Uptime")
+        self.url = url
+        self.timeout = timeout
+        self.slow_threshold = slow_threshold
+
+    def run(self):
+        start_time = time.perf_counter()
+        status_code = None
+
+        try:
+            response = requests.get(
+                self.url,
+                timeout=self.timeout
+            )
+
+            status_code = response.status_code
+
+            response_ms = (
+                time.perf_counter() - start_time
+            ) * 1000
+
+            if not 200 <= status_code < 300:
+                status = "FAIL"
+                detail = f"HTTP error: {status_code}"
+
+            elif response_ms > self.slow_threshold * 1000:
+                status = "WARN"
+                detail = f"Slow response: {response_ms:.2f} ms"
+
+            else:
+                status = "OK"
+                detail = f"Response time: {response_ms:.2f} ms"
+
+        except requests.exceptions.Timeout:
+            response_ms = (time.perf_counter() - start_time) * 1000
+            status = "FAIL"
+            detail = f"Request timed out after {self.timeout} seconds"
+
+        except requests.exceptions.ConnectionError:
+            response_ms = (time.perf_counter() - start_time) * 1000
+            status = "FAIL"
+            detail = "Connection failed: website unreachable"
+
+        except requests.exceptions.RequestException as e:
+            response_ms = (time.perf_counter() - start_time) * 1000
+            status = "FAIL"
+            detail = f"Request error: {e}"
+
+        result = self.result(status, detail)
+
+        result.update({
+            "url": self.url,
+            "status_code": status_code,
+            "response_ms": round(response_ms, 2)
+        })
+
+        return result

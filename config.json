@@ -3,5 +3,16 @@
     "min_free_percent": 20,
     "max_folder_mb": 500,
     "max_file_mb": 100,
-    "folders_to_watch": ["."]
+    "folders_to_watch": ["."],
+
+    "sites": [
+        "https://google.com",
+        "https://github.com",
+        "https://youtube.com",
+        "https://microsoft.com",
+        "https://python.org",
+        "https://example.com",
+        "https://wikipedia.org",
+        "https://this-website-does-not-exist-12345.com"
+    ]
 }
